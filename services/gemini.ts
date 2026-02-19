@@ -1,7 +1,6 @@
 
 import { GoogleGenAI, Modality } from "@google/genai";
-
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+import process from 'process';
 
 async function withRetry<T>(fn: () => Promise<T>, retries = 3, delay = 1000): Promise<T> {
   try {
@@ -13,34 +12,58 @@ async function withRetry<T>(fn: () => Promise<T>, retries = 3, delay = 1000): Pr
   }
 }
 
-export const fetchAINews = async (categories: string[] = []): Promise<any> => {
-  const prompt = `Act as a senior technical intelligence analyst for software architects and CTOs.
-  Research exactly 7 breaking AI developments from the last 24-48 hours.
+export const generateEpisodeMetadata = async (summary: string) => {
+  const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+  const prompt = `Based on this real-time AI news summary, generate a catchy, high-impact podcast episode title that is EXACTLY 10 to 12 words long.
+  Focus on the most significant technical or market breakthrough from TODAY.
   
-  PILLAR REQUIREMENTS (1 item per pillar):
-  1. ADVANCED TECH: New SOTA benchmarks, model architectures, or weight releases.
-  2. MARKET/M&A: Major acquisitions, board changes, or significant stock movement.
-  3. USER TOOLS: Developer productivity, IDE extensions, CLI improvements.
-  4. INFRA/SERVICES: Cloud provider updates (AWS/Azure/GCP/CoreWeave).
-  5. VENTURE/STARTUPS: Funding rounds (Series A+), stealth exits, or massive seed rounds.
-  6. LEGISLATURE/POLICY: US specific laws, copyright rulings, or senate hearings.
-  7. ACADEMIA: Significant ArXiv papers or institutional breakthroughs.
+  Summary: ${summary}`;
 
-  DATA REQUIREMENT: Every story MUST include at least one hard number ($, parameter count, percentage, or date).
-  [METADATA] TOP_STORIES: Story 1, Story 2, Story 3, Story 4, Story 5, Story 6, Story 7`;
+  const response = await ai.models.generateContent({
+    model: 'gemini-3-flash-preview',
+    contents: prompt,
+    config: { temperature: 0.8 }
+  });
+
+  return response.text?.trim().replace(/^"|"$/g, '') || "Daily AI Intelligence Briefing: The Latest Technical and Market Evolution Observed Today";
+};
+
+export const fetchAINews = async (categories: string[] = []): Promise<any> => {
+  const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+  const now = new Date();
+  const dateString = now.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+  
+  const prompt = `Act as a senior technical intelligence analyst. 
+  TODAY'S DATE IS: ${dateString}.
+  
+  TASK: Research and synthesize exactly 7 breaking AI developments from the last 24 to 48 hours. 
+  
+  STRICT RELEVANCE RULES:
+  1. DO NOT include DeepSeek v3, o1-preview, or any news from more than 7 days ago.
+  2. If the story isn't from ${now.getMonth() + 1}/${now.getDate() - 1} or ${now.getMonth() + 1}/${now.getDate()}, IGNORE IT.
+  3. Reject 2024 news entirely.
+  4. Focus on NEW weight releases, API version increments, GPU cluster expansions, and real-time market shifts.
+
+  REPORTING STYLE:
+  - Technical: Parameters, FLOPs, Latency, Throughput.
+  - Sentiment: Aggregate consensus from Hacker News / X / GitHub from the LAST 12 HOURS.
+
+  [METADATA] TOP_STORIES: (List 7 short headlines separated by commas)`;
 
   const response = await ai.models.generateContent({
     model: 'gemini-3-flash-preview',
     contents: prompt,
     config: { 
       tools: [{ googleSearch: {} }],
-      thinkingConfig: { thinkingBudget: 0 } // Flash handles this well without budget
+      thinkingConfig: { thinkingBudget: 0 }
     },
   });
 
   const text = response.text || "";
-  const [report, metadata] = text.split('[METADATA]');
-  const topStories = metadata?.match(/TOP_STORIES: (.*)/)?.[1]?.split(',') || ["Daily Intelligence Brief"];
+  const parts = text.split('[METADATA]');
+  const report = parts[0] || "";
+  const metadata = parts[1] || "";
+  const topStories = metadata.match(/TOP_STORIES: (.*)/)?.[1]?.split(',') || ["Real-time AI Intelligence Update"];
   
   return {
     newsText: report.trim(),
@@ -50,35 +73,28 @@ export const fetchAINews = async (categories: string[] = []): Promise<any> => {
 };
 
 export const generatePodcastScript = async (newsSummary: string) => {
-  const prompt = `Write a high-density conversational NEWSCAST script for "AI Daily Pulse by Sundaram Labs".
-  
-  TARGET LENGTH: 15 minutes (~2,200 words).
-  FORMAT: Byte-sized news segments. Rapid fire delivery.
+  const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+  const prompt = `Write a 15-minute technical conversation script for "AI Daily Pulse".
   
   HOSTS:
-  - Alex (FEMALE Technical Architect): Critical, implementation-focused, skeptical of hype.
-  - Marcus (MALE Strategy Executive): Optimistic, ROI-focused, market-visionary.
+  - Alex (Female): Skeptical Technical Architect. Focuses on "Can we actually deploy this?"
+  - Marcus (Male): Strategic Visionary. Focuses on "How does this change the competitive landscape?"
 
-  TONE: Professional, fast, data-driven. Not a documentary. A technical newscast.
+  CONVERSATION FLOW:
+  - DO NOT mention "pillars", "categories", or numbered lists.
+  - Marcus leads with a breakdown of a new story, Alex pushes back with technical constraints.
+  - Use natural segues like "That actually maps to the infra news we saw earlier..." or "Wait, before we move on, the latency numbers there are wild..."
+  - MANDATORY: Use [TRANSITION] between major news items to help the production engine.
 
-  STRUCTURE:
-  - Intro: "Top of the hour. AI Daily Pulse by Sundaram Labs. I'm Alex. And I'm Marcus. 7 pillars of intelligence in 15 minutes. Let's go."
-  - For each of the 7 pillars:
-    - Marcus delivers the 'Headline' with quantifiable data.
-    - Alex interrupts with a 30-second 'Architect's Take' on why it matters technically.
-    - Marcus counters with the 'Strategic ROI' take.
-    - MANDATORY: Wrap each pillar with the tag [TRANSITION].
-  - Outro: "This is a production of Sundaram Labs. Subscribe for your daily briefing. We'll be back tomorrow."
-
-  NEWS DATA TO CONVERT:
+  DATA TO SYNTHESIZE:
   ${newsSummary}`;
 
-  // Using Flash-preview for the script as well for higher reliability/speed in browser context
   const response = await ai.models.generateContent({
     model: 'gemini-3-flash-preview',
     contents: prompt,
     config: { 
-      maxOutputTokens: 8192
+      maxOutputTokens: 6000,
+      temperature: 0.7
     }
   });
 
@@ -86,6 +102,7 @@ export const generatePodcastScript = async (newsSummary: string) => {
 };
 
 export const generateSegmentAudio = async (text: string): Promise<string[]> => {
+  const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
   const cleanText = text
     .replace(/Sundaram/gi, 'Suun-duh-ruhm')
     .replace(/Labs/gi, 'Labbz')
