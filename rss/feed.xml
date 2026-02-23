@@ -14,8 +14,26 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://sunisankara.github.io/ai-pulse-podcast/rss/cover.jpg"/>
-    <lastBuildDate>Fri, 20 Feb 2026 13:05:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 13:09:41 GMT</lastBuildDate>
     
+    <item>
+      <title>**Photonic Breakthrough: New Architectural Shifts Shattering Global AI Infrastructure Scaling Limits**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse: Technical Intelligence Briefing**
+**Date:** February 23, 2026
+**Episode Duration:** Approx. 15 Minutes
+
+[INTRO MUSIC: High-tempo, synthetic, clean]
+
+**MARCUS:** Welcome back to the Pulse. It’s February 23rd, 2026, and the last 48 hours have effectively rewritten the playbook for multi-cloud inference. I’m Marcus, and across from me is Alex, who I suspect spent her entire morning looking at latency benchmarks for the new Unified Inference Mesh standard.
+
+**ALEX:** I did, and Mar...</p>]]></description>
+      <pubDate>Mon, 23 Feb 2026 13:09:41 GMT</pubDate>
+      <guid isPermaLink="false">1771851902402</guid>
+      <enclosure url="https://sunisankara.github.io/ai-pulse-podcast/rss/AI-Pulse-1771851902402.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**How the Rapid Forty Eight Hour Synthesis is Reshaping Global AI Verticals**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA "Hyperion-X" 100k Cluster Activation</li><li>Mistral-NeMo-V2 Weights Release</li><li>OpenAI "Sora-Pro" API Deployment</li><li>TSMC 1.4nm Yield Breakthrough</li><li>Meta Llama-4-Early-Access Benchmarks</li><li>Groq LPU-3 Hardware Specs Leak</li><li>Anthropic Claude 4.5 Technical Preview.</li></ul><hr/><p>**AI Daily Pulse: Technical Synthesis**
