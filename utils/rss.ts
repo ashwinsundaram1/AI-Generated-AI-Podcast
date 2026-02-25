@@ -4,7 +4,7 @@ import { PodcastEpisode } from '../types';
 export function generateRSSFeed(
   episodes: PodcastEpisode[], 
   baseUrl: string, 
-  ownerEmail: string = 'broadcast@sundaramlabs.ai'
+  ownerEmail: string = 'ashwin.sundaram@gmail.com'
 ): string {
   const lastBuildDate = new Date().toUTCString();
   
@@ -38,11 +38,11 @@ export function generateRSSFeed(
     <title>AI Daily Pulse</title>
     <link>${baseUrl}</link>
     <language>en-us</language>
-    <itunes:author>Sundaram Labs</itunes:author>
+    <itunes:author>Ashwin Labs</itunes:author>
     <itunes:summary>Your daily 15-minute conversational deep dive into latest AI developments. Optimized 10-12 word summaries.</itunes:summary>
     <description>Automated daily AI intelligence briefing.</description>
     <itunes:owner>
-      <itunes:name>Sundaram Labs</itunes:name>
+      <itunes:name>Ashwin Labs</itunes:name>
       <itunes:email>${ownerEmail}</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
