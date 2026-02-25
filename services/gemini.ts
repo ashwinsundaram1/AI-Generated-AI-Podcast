@@ -36,17 +36,17 @@ export const fetchAINews = async (categories: string[] = []): Promise<any> => {
   const prompt = `Act as a senior technical intelligence analyst. 
   TODAY'S DATE IS: ${dateString}.
   
-  TASK: Research and synthesize exactly 7 breaking AI developments from the last 24 to 48 hours. 
+  TASK: Research and synthesize exactly 7 breaking AI developments from the last 24 hours. 
   
   STRICT RELEVANCE RULES:
-  1. DO NOT include DeepSeek v3, o1-preview, or any news from more than 7 days ago.
+  1. DO NOT include any news from more than 7 days ago.
   2. If the story isn't from ${now.getMonth() + 1}/${now.getDate() - 1} or ${now.getMonth() + 1}/${now.getDate()}, IGNORE IT.
-  3. Reject 2024 news entirely.
+  3. Reject 2025 news entirely.
   4. Focus on NEW weight releases, API version increments, GPU cluster expansions, and real-time market shifts.
 
   REPORTING STYLE:
   - Technical: Parameters, FLOPs, Latency, Throughput.
-  - Sentiment: Aggregate consensus from Hacker News / X / GitHub from the LAST 12 HOURS.
+  - Sentiment: Aggregate consensus from Hacker News / X / GitHub from the LAST 24 HOURS.
 
   [METADATA] TOP_STORIES: (List 7 short headlines separated by commas)`;
 
