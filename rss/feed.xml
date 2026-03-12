@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Wed, 11 Mar 2026 13:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 13:03:14 GMT</lastBuildDate>
     
+    <item>
+      <title>**The AI Delta Report: How Today’s Breakthrough Just Triggered The AGI Revolution**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "Oberon" Architecture Leak</li><li>OpenAI GPT-5-Turbo API Endpoint Active</li><li>Meta Llama 4-8B Weight Drop</li><li>Groq LPU v3 Performance Benchmarks</li><li>Mistral "Liquid" Architecture Paper</li><li>CoreWeave 100k GPU Cluster Completion</li><li>Anthropic Real-Time Voice Latency Breakthrough.</li></ul><hr/><p>**AI Daily Pulse: Technical Intelligence Briefing**
+**Date:** March 12, 2026
+**Hosts:** Alex (Technical Architect) & Marcus (Strategic Visionary)
+
+[START SCRIPT]
+
+**MARCUS:** It is March 12th, 2026. I’m Marcus, and looking at the Delta Report this morning, we are officially entering the era of the "Local Leviathan." The big news overnight is the release of the Synapse-X neuromorphic architecture. We’ve been hearing rumors about on-device training for months, but this is the first time we’re seei...</p>]]></description>
+      <pubDate>Thu, 12 Mar 2026 13:03:14 GMT</pubDate>
+      <guid isPermaLink="false">1773320250883</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1773320250883.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**The Trillion Dollar Breakthrough: How Autonomous Agent Swarms Just Redefined Global Markets**</title>
       <description><![CDATA[<p>**AI Daily Pulse: March 11, 2026**
