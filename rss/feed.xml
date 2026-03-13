@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Thu, 12 Mar 2026 13:03:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 13:02:14 GMT</lastBuildDate>
     
+    <item>
+      <title>**NVIDIA Nemotron Three Super: Ten Trillion Tokens To End Proprietary AI Dominance**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA Nemotron 3 Super Release</li><li>OpenAI GPT-5.4 API Launch</li><li>ByteDance 36K Blackwell Cluster</li><li>Anthropic Claude Inline Visuals</li><li>NVIDIA $26B Open-Weight Commitment</li><li>Corvex Secure Weights TEE</li><li>Google Maps Gemini 3.1 Overhaul</li></ul><hr/><p>**AI Daily Pulse**
+**Date:** Friday, March 13, 2026
+**Episode:** The Sovereign Pivot
+
+**MARCUS:** Welcome back to AI Daily Pulse. It is Friday, March 13th, 2026, and if you thought the industry was settling into a comfortable triopoly between OpenAI, Anthropic, and Google, NVIDIA just threw a twenty-six-billion-dollar wrench into that theory. I’m Marcus, and we are looking at a massive shift in how the "Sovereign AI" era is actually going to be built.
+
+**ALEX:** And I’m Alex. I’ve spent my morni...</p>]]></description>
+      <pubDate>Fri, 13 Mar 2026 13:02:14 GMT</pubDate>
+      <guid isPermaLink="false">1773406560777</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1773406560777.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**The AI Delta Report: How Today’s Breakthrough Just Triggered The AGI Revolution**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "Oberon" Architecture Leak</li><li>OpenAI GPT-5-Turbo API Endpoint Active</li><li>Meta Llama 4-8B Weight Drop</li><li>Groq LPU v3 Performance Benchmarks</li><li>Mistral "Liquid" Architecture Paper</li><li>CoreWeave 100k GPU Cluster Completion</li><li>Anthropic Real-Time Voice Latency Breakthrough.</li></ul><hr/><p>**AI Daily Pulse: Technical Intelligence Briefing**
