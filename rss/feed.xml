@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Fri, 13 Mar 2026 13:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 13:14:22 GMT</lastBuildDate>
     
+    <item>
+      <title>How Intel’s Revolutionary Photonic Chip Just Shattered The Global AI Performance Record</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA "Hyper- Blackwell" GB300 Global Rollout</li><li>OpenAI ‘Strawberry’ GPT-5-Alpha API Tier</li><li>Mistral-NeMo-V2 Weights Release</li><li>Meta 1.2M H100 Cluster Interconnect Milestone</li><li>Llama-4-Lite-8B Base Model Leak</li><li>Cerebras CS-4 Inference Benchmarks</li><li>Grok-3 Early Access Throughput Data.</li></ul><hr/><p>**AI Daily Pulse: March 16, 2026**
+**Episode Title:** The Hyperion Shift and the Cost of Reasoning
+**Duration:** Approx. 15 Minutes
+
+[INTRO MUSIC: High-tempo, synth-heavy, clinical but driving.]
+
+**MARCUS:** It is March 16th, 2026. I’m Marcus, and the landscape just shifted again. If you thought the "Stargate" era was just hype, the data coming out of the Hyperion-1 cluster launch this morning suggests we are officially in the age of persistent reasoning. We’re looking at a model that doesn’t ju...</p>]]></description>
+      <pubDate>Mon, 16 Mar 2026 13:14:22 GMT</pubDate>
+      <guid isPermaLink="false">1773666530155</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1773666530155.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**NVIDIA Nemotron Three Super: Ten Trillion Tokens To End Proprietary AI Dominance**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA Nemotron 3 Super Release</li><li>OpenAI GPT-5.4 API Launch</li><li>ByteDance 36K Blackwell Cluster</li><li>Anthropic Claude Inline Visuals</li><li>NVIDIA $26B Open-Weight Commitment</li><li>Corvex Secure Weights TEE</li><li>Google Maps Gemini 3.1 Overhaul</li></ul><hr/><p>**AI Daily Pulse**
