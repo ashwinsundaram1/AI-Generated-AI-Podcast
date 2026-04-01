@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Tue, 31 Mar 2026 13:22:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 13:23:37 GMT</lastBuildDate>
     
+    <item>
+      <title>**Microsoft Unveils Copilot Plus PCs to Revolutionize the Future of Computing**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Anthropic Accidental "Claude Code" Leak Confirms Claude Mythos</li><li>OpenAI Releases GPT-5.4 with Native Computer Use API</li><li>Google AI Launches Veo 3.1 Lite for Low-Latency Video</li><li>xAI Ships Grok-4.1-Fast with 2M Token Context</li><li>Hugging Face Releases TRL v1.0 for Production Alignment</li><li>Google Defines Technical Boundary Between "Google-Agent" and "Googlebot"</li><li>Azure OpenAI Realtime API Transitions to General Availability.</li></ul><hr/><p>**AI Daily Pulse**
+**Episode Title:** The Inference Tax and the Nuclear Option
+**Duration:** Approx. 15 Minutes
+
+**[START]**
+
+**MARCUS:** You know, Alex, I was looking at the latest benchmarks for the OpenAI o1-preview this morning, and I think we’re finally seeing the end of the "stochastic parrot" argument. We aren’t just predicting the next token anymore; we’re watching a model actually *deliberate*. From a strategic standpoint, this moves AI from a creative assistant to a logic engine. If yo...</p>]]></description>
+      <pubDate>Wed, 01 Apr 2026 13:23:37 GMT</pubDate>
+      <guid isPermaLink="false">1775049537283</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1775049537283.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**The AGI Milestone: Why Today’s Frontier Developments Are Transforming The Global Markets**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse**
