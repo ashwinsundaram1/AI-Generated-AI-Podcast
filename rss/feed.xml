@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Wed, 01 Apr 2026 13:23:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 13:15:35 GMT</lastBuildDate>
     
+    <item>
+      <title>**The Local AI Revolution: How Microsoft’s Copilot Plus PCs Change Everything**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Anthropic Claude Code CLI Source Leak</li><li>Google Gemini API "Flex" Tier Launch</li><li>xAI Grok 4.20 Multi-Agent API</li><li>NVIDIA Blackwell B200 Cluster Surge</li><li>Meta Llama 4 Maverick Open-Weights Release</li><li>OpenAI GPT-5.4 "Thinking" API Increment</li><li>DeepSeek V3.2 Price-Performance Shift.</li></ul><hr/><p>**AI Daily Pulse: The Reality of the Frontier**
+**Duration:** Approx. 15 Minutes
+**Characters:** Alex (Technical Architect), Marcus (Strategic Visionary)
+
+[START SCRIPT]
+
+**MARCUS:** Welcome back to the AI Daily Pulse. I’m Marcus, and across the table from me—clutching a very large coffee and looking over a stack of whitepapers—is Alex. Alex, I think the industry just shifted its weight again this morning. Meta’s Llama 3.1 405B is officially out in the wild, and it’s not just a model release; it...</p>]]></description>
+      <pubDate>Thu, 02 Apr 2026 13:15:35 GMT</pubDate>
+      <guid isPermaLink="false">1775135455232</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1775135455232.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**Microsoft Unveils Copilot Plus PCs to Revolutionize the Future of Computing**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Anthropic Accidental "Claude Code" Leak Confirms Claude Mythos</li><li>OpenAI Releases GPT-5.4 with Native Computer Use API</li><li>Google AI Launches Veo 3.1 Lite for Low-Latency Video</li><li>xAI Ships Grok-4.1-Fast with 2M Token Context</li><li>Hugging Face Releases TRL v1.0 for Production Alignment</li><li>Google Defines Technical Boundary Between "Google-Agent" and "Googlebot"</li><li>Azure OpenAI Realtime API Transitions to General Availability.</li></ul><hr/><p>**AI Daily Pulse**
