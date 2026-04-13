@@ -14,8 +14,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Fri, 10 Apr 2026 13:12:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 13:28:13 GMT</lastBuildDate>
     
+    <item>
+      <title>**Nvidia Shatters Earnings Expectations as Blackwell Chips Fuel the Next AI Supercycle**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "Oberon" Cluster Production Yields</li><li>OpenAI GPT-5-Alpha API Rate Limit Increments</li><li>Meta Llama-4-70B Initial Weights Leak</li><li>Groq LPUs Achieve 1200 t/s on Mistral-Next</li><li>Google TPUnext-v6 Benchmarks</li><li>Anthropic Claude 3.7 Opus Latency Optimization</li><li>Apple "Ajax" On-Device 30B Quantization Breakthrough.</li></ul><hr/><p>**AI Daily Pulse**
+**Episode Title:** The Efficiency Trap and the Silicon Moat
+**Duration:** Approx. 15 Minutes
+**Characters:** Alex (Architect) & Marcus (Visionary)
+
+[START SCRIPT]
+
+**MARCUS:** You know, Alex, I was looking at the latest benchmarks coming out of the dynamic compute research—specifically this "Mixture-of-Depths" approach—and it feels like we’re finally moving past the "brute force" era of AI. If we can actually skip computations for tokens that don’t need them, the cost-to-intel...</p>]]></description>
+      <pubDate>Mon, 13 Apr 2026 13:28:13 GMT</pubDate>
+      <guid isPermaLink="false">1776086612228</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1776086612228.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**The AGI Singularity Arrives: OpenAI Stargate Project Rewrites The Future Of Humanity**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse: April 10, 2026**
