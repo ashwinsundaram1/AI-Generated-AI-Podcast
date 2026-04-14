@@ -14,8 +14,26 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Mon, 13 Apr 2026 13:28:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 13:28:24 GMT</lastBuildDate>
     
+    <item>
+      <title>How Sovereign Compute Breakthroughs Are Redefining Global AI Infrastructure Standards Today</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse: April 14, 2026**
+
+**Characters:**
+*   **Alex:** Skeptical Technical Architect.
+*   **Marcus:** Strategic Visionary.
+
+**[START SCRIPT]**
+
+**Marcus:** Welcome back to the Pulse. It is April 14th, 2026, and if you thought the compute wars were settling into a stalemate, the last twenty-four hours just threw a massive wrench in that theory. I’m looking at the release of the "Aether-1" architecture from the Zurich Consortium, and Alex, the strategic implications here are staggering....</p>]]></description>
+      <pubDate>Tue, 14 Apr 2026 13:28:24 GMT</pubDate>
+      <guid isPermaLink="false">1776172973851</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1776172973851.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**Nvidia Shatters Earnings Expectations as Blackwell Chips Fuel the Next AI Supercycle**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "Oberon" Cluster Production Yields</li><li>OpenAI GPT-5-Alpha API Rate Limit Increments</li><li>Meta Llama-4-70B Initial Weights Leak</li><li>Groq LPUs Achieve 1200 t/s on Mistral-Next</li><li>Google TPUnext-v6 Benchmarks</li><li>Anthropic Claude 3.7 Opus Latency Optimization</li><li>Apple "Ajax" On-Device 30B Quantization Breakthrough.</li></ul><hr/><p>**AI Daily Pulse**
