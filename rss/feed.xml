@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Tue, 14 Apr 2026 13:28:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 13:26:53 GMT</lastBuildDate>
     
+    <item>
+      <title>**How the April 15th Intelligence Synthesis Just Delivered a Massive AI Breakthrough**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA Blackwell B200 Full-Scale Shipment Commencement</li><li>OpenAI "Mira-1" API Beta Release</li><li>Groq LPU v3 Performance Benchmarks</li><li>Mistral-NeMo-14B-v2 Weight Drop</li><li>Google TPU v6 Pod Expansion</li><li>Anthropic "Context-Sync" Latency Reduction</li><li>Meta Llama-4-Early-Access Evaluation.</li></ul><hr/><p>**AI Daily Pulse: April 15, 2026**
+**Duration:** Approx. 15 Minutes
+**Hosts:** Alex (Technical Architect) & Marcus (Strategic Visionary)
+
+[START SCRIPT]
+
+**MARCUS:** It is April 15th, 2026, and if you thought the news cycle was going to stabilize after last week’s LLM-7 launch, the last 24 hours have been a complete reality check. We’re looking at a fundamental shift in how we think about "active" intelligence. Alex, I’ve been staring at the Open-Sora V3 technical report all morning, and the imp...</p>]]></description>
+      <pubDate>Wed, 15 Apr 2026 13:26:53 GMT</pubDate>
+      <guid isPermaLink="false">1776259341304</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1776259341304.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>How Sovereign Compute Breakthroughs Are Redefining Global AI Infrastructure Standards Today</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse: April 14, 2026**
