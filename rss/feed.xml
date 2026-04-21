@@ -14,8 +14,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Mon, 20 Apr 2026 13:31:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 13:29:57 GMT</lastBuildDate>
     
+    <item>
+      <title>Why The April 2026 Pulse Is The Most Significant AI Technical Breakthrough</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 Cluster Online</li><li>Llama 4-Nano Weights Released</li><li>Mistral-NeMo-V2 API Live</li><li>Cerebras CS-4 Throughput Record</li><li>OpenAI GPT-5-Turbo Canary Update</li><li>TSMC 1.4nm Logic Risk Production</li><li>Groq-3 LPUs Latency Benchmark.</li></ul><hr/><p>**AI Daily Pulse**
+**Episode Date:** April 21, 2026
+**Hosts:** Alex (Technical Architect) & Marcus (Strategic Visionary)
+**Length:** Approx. 15 Minutes
+
+[INTRO MUSIC – SUBTLE, TECH-FORWARD SYNTH BEAT]
+
+**MARCUS:** Good morning. It is April 21st, 2026. I’m Marcus, and we are looking at a landscape this morning that feels like the "Great Decoupling." For the last two years, we’ve been obsessed with massive, monolithic clusters. But the data coming out of the last 24 hours suggests the industry is ...</p>]]></description>
+      <pubDate>Tue, 21 Apr 2026 13:29:57 GMT</pubDate>
+      <guid isPermaLink="false">1776777826782</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1776777826782.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**SIU Flash Report: The Massive Technical Breakthrough That Just Reset AI Forever**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "Oberon" Cluster Go-Live</li><li>Llama 4-Medium 70B Weights Leak</li><li>Mistral-Next-V2 API Launch</li><li>CUDA 13.1 Performance Patch</li><li>Groq LPUs Scale to 1M Context</li><li>OpenAI "Gobi" Multi-Modal Latency Benchmark</li><li>Ethereum-Based Decentralized Compute Spike.</li></ul><hr/><p>**AI Daily Pulse: Technical Briefing**
