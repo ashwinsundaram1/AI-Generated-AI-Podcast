@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Fri, 24 Apr 2026 13:26:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 13:56:06 GMT</lastBuildDate>
     
+    <item>
+      <title>**Quantum Neural Scaling: The Technical Breakthrough That Finally Achieved Artificial General Intelligence**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "HyperCluster" Deployment</li><li>Llama 4-S Alpha Weight Leak</li><li>Groq 4.0 LPUs Hit 2.5k t/s</li><li>OpenAI 'Nexus' API Versioning</li><li>Mistral-Neo 175B Release</li><li>TSMC 1.4nm Yield Milestone</li><li>Anthropic 'Claude 4' System Card Update.</li></ul><hr/><p>**AI Daily Pulse: April 27, 2026**
+
+**ALEX:** It’s April 27th, 2026. I’m Alex, Technical Architect, and I’m already tired of the marketing fluff coming out of the Valley this morning.
+
+**MARCUS:** And I’m Marcus. I’m looking at the same data and seeing the foundation of a total market shift. Alex, you’ve got to stop looking at the kernel logs and start looking at the boardrooms.
+
+**ALEX:** When the boardroom understands why sub-1.5-bit quantization is currently breaking our RAG pipelines, I’ll s...</p>]]></description>
+      <pubDate>Mon, 27 Apr 2026 13:56:06 GMT</pubDate>
+      <guid isPermaLink="false">1777297805044</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1777297805044.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Next Generation Frontier Models and Hyper-scale Infrastructure Launch Global Tectonic Shift</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse: The April 24th Tectonic Shift**
