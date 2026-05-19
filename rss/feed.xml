@@ -14,8 +14,22 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Mon, 18 May 2026 15:34:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 15:03:58 GMT</lastBuildDate>
     
+    <item>
+      <title>**How Today’s Neural Fabric Breakthrough Is Transforming The Global Artificial Intelligence Market**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "HyperScale" Cluster Expansion</li><li>OpenAI GPT-5-Turbo API Incremental Update</li><li>Mistral-7B-v4 Weights Release</li><li>Groq LPU v3 Throughput Benchmarks</li><li>PyTorch 2.7 JIT Compiler Breakthrough</li><li>TSMC 1.4nm Pilot for AI Silo</li><li>Anthropic "System-Level" Latency Optimization.</li></ul><hr/><p>**AI Daily Pulse: Technical Intelligence Brief**
+**Date:** May 19, 2026
+**Duration:** Approx. 15 Minutes
+
+**MARCUS:** We are starting the morning with what I think is the final nail in the coffin for the "bigger is better" era of LLMs. Liquid Foundation just dropped their 1.0 release for their continuous-time neural networks. We’ve been tracking their research for two years, but seeing this hit production-grade stability is a massive shift. They’re claiming a 10x reduction in compute overhead fo...</p>]]></description>
+      <pubDate>Tue, 19 May 2026 15:03:58 GMT</pubDate>
+      <guid isPermaLink="false">1779202745275</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1779202745275.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**How The First Autonomous Quantum Neural Network Is Revolutionizing Global Financial Markets**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>GPT-5.3-Codex Becomes Copilot Base Model</li><li>OpenAI Launches ChatGPT Personal Finance via GPT-5.5-Thinking</li><li>Anthropic Briefs Global Finance Watchdog on Claude Mythos</li><li>Celestica $876M AI Infrastructure Investment</li><li>Cerebras Surges 68% on Nasdaq Debut</li><li>Anthropic Highlights "Capabiltiy Curve" at London Code Event</li><li>Microsoft/Nvidia GB300 Shipment Expansion.</li></ul><hr/><p>**AI DAILY PULSE: MAY 18, 2026**
