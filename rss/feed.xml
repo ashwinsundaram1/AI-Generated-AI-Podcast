@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Tue, 19 May 2026 15:03:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 15:04:07 GMT</lastBuildDate>
     
+    <item>
+      <title>**Microsoft’s Copilot Plus PCs: The Biggest Technical Leap In Personal Computing History**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Gemini 3.5 Flash & Omni Launch</li><li>Andrej Karpathy Joins Anthropic Pretraining</li><li>OpenAI Launches Guaranteed Capacity Compute</li><li>Cursor Ships Composer 2.5 Coding Model</li><li>Google Antigravity 2.0 Agent OS</li><li>Google Tensor SDK Beta with LiteRT</li><li>Anthropic & SpaceX Colossus 1 Compute Deal</li></ul><hr/><p>**AI Daily Pulse: Episode 142**
+**Duration:** Approx. 15 Minutes
+**Hosts:** Alex (Technical Architect) & Marcus (Strategic Visionary)
+
+[START]
+
+**Marcus:** Welcome back to the Pulse. I’m Marcus, and today we’re looking at a landscape that is shifting faster than the hardware can actually keep up with. We’ve seen a massive pivot this week in how the "Big Three" are approaching the inference layer, and honestly, Alex, it feels like the era of "just throw more GPUs at it" is hitting a very hard, ve...</p>]]></description>
+      <pubDate>Wed, 20 May 2026 15:04:07 GMT</pubDate>
+      <guid isPermaLink="false">1779289174587</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1779289174587.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**How Today’s Neural Fabric Breakthrough Is Transforming The Global Artificial Intelligence Market**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "HyperScale" Cluster Expansion</li><li>OpenAI GPT-5-Turbo API Incremental Update</li><li>Mistral-7B-v4 Weights Release</li><li>Groq LPU v3 Throughput Benchmarks</li><li>PyTorch 2.7 JIT Compiler Breakthrough</li><li>TSMC 1.4nm Pilot for AI Silo</li><li>Anthropic "System-Level" Latency Optimization.</li></ul><hr/><p>**AI Daily Pulse: Technical Intelligence Brief**
