@@ -14,8 +14,20 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Thu, 21 May 2026 15:25:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 14:41:13 GMT</lastBuildDate>
     
+    <item>
+      <title>**OpenAI Unveils GPT-7 Today: The First AI To Achieve Certified AGI Status**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse: May 22, 2026**
+
+**MARCUS:** It is Friday, May 22nd, 2026. I’m Marcus, and across the table from me is Alex. Alex, I think we finally hit the "Event Horizon" this morning. The Liquid Foundation Labs release—the LFL-3—just went live, and the benchmarks aren't just beating the transformer architecture; they’re making it look like a legacy mainframe. We’re looking at a 100x reduction in compute-per-token for long-context windows. This effectively ends the "GPU arms race" as we know...</p>]]></description>
+      <pubDate>Fri, 22 May 2026 14:41:13 GMT</pubDate>
+      <guid isPermaLink="false">1779460550709</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1779460550709.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**The 2026 Synthesis: How Autonomous Neural Networks Just Redefined Global Markets**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA Vera "Agentic CPU" Production Release</li><li>OpenAI Model Disproves Discrete Geometry Conjecture</li><li>Qwen3.7-Max Agentic Frontier Weights</li><li>Andrej Karpathy Joins Anthropic</li><li>Google Gemini 3.5 Flash API Expansion</li><li>NVIDIA First-Quarter Revenue Surge ($81.6B)</li><li>Forge Guardrail Framework for 8B Models.</li></ul><hr/><p>**AI Daily Pulse**
