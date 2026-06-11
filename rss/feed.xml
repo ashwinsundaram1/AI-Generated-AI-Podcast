@@ -14,8 +14,23 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Wed, 10 Jun 2026 15:34:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 16:02:02 GMT</lastBuildDate>
     
+    <item>
+      <title>**Quantum Neural Breakthroughs Today: Shattering Benchmarks and Transforming the Entire Global Economy**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "Hyperion" Mass Production Start</li><li>Mistral-Neo-7B Weight Release</li><li>OpenAI GPT-5.2 API Latency Optimization</li><li>CoreWeave 50k-Node Cluster Online</li><li>Meta Llama-4-Lite Quantization Breakthrough</li><li>TSMC 1.4nm Risk Production Shift</li><li>Groq LPU v3 Throughput Benchmarks.</li></ul><hr/><p>**AI DAILY PULSE: JUNE 11, 2026**
+**EPISODE: "The Weight of Ghost-Silicon"**
+
+**ALEX:** (Microphone check) Levels are good. Marcus, please tell me you’ve looked at the technical annex of the Lumina-4 release before we started. I’m seeing some numbers that don’t add up.
+
+**MARCUS:** I’ve been up since 4:00 AM digging through the strategic implications, Alex. It’s not just about the numbers; it’s about the fact that we finally have a model that can rewrite its own inference kernels in real-time. T...</p>]]></description>
+      <pubDate>Thu, 11 Jun 2026 16:02:02 GMT</pubDate>
+      <guid isPermaLink="false">1781193425703</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1781193425703.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**The Dawn of AGI: Today’s Breakthrough That Will Change the World Forever**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse: June 10, 2026**
