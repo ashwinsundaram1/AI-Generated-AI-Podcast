@@ -14,8 +14,26 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Fri, 12 Jun 2026 15:00:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 17:18:56 GMT</lastBuildDate>
     
+    <item>
+      <title>**The Delta Report: Technical Intelligence Synthesis Reveals the First Sentient AI**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA "Lovelace-Next" H300 Benchmarks</li><li>OpenAI GPT-5.5 API-Turbo Release</li><li>Meta Llama-4-Lite (40B) Weights</li><li>TSMC 1.6nm High-NA EUV Integration</li><li>Cerebras CS-4 Cluster Expansion</li><li>Anthropic Claude 4.2 ‘System Prompt’ Leak</li><li>Mistral-NeMo-v3 Sparse-MoE Weights.</li></ul><hr/><p>**AI DAILY PULSE: JUNE 15, 2026**
+**HOSTS:** Alex (Technical Architect) & Marcus (Strategic Visionary)
+**DURATION:** ~15 Minutes
+
+[START AUDIO]
+
+**MARCUS:** It is June 15th, 2026, and if you thought the hardware wars were settling into a comfortable duopoly, today’s data drop just blew that wide open. I’m Marcus, and looking at the overnight telemetry, we are seeing a massive shift in where the "intelligence" actually lives.
+
+**ALEX:** And I’m Alex. I’m looking at these same reports, Marcus, but...</p>]]></description>
+      <pubDate>Mon, 15 Jun 2026 17:18:56 GMT</pubDate>
+      <guid isPermaLink="false">1781543562048</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1781543562048.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**OpenAI Strawberry Reasoning Leak and NVIDIA H200 Clusters Redefine AI Scaling**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI DAILY PULSE**
