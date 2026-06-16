@@ -14,8 +14,22 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Mon, 15 Jun 2026 17:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 16:52:44 GMT</lastBuildDate>
     
+    <item>
+      <title>**Nvidia Stock Surges as Record Earnings Fuel the Global Artificial Intelligence Revolution**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Mistral Medium 3.5 Open Weights Release</li><li>OpenAI Codex Infrastructure Outage</li><li>AMD-Vultr GPU Orchestration Layer Launch</li><li>Flash-KMeans GPU Kernel Breakthrough</li><li>Anthropic Claude API Model Deprecations</li><li>NVIDIA 3nm "Vera" CPU Architecture Leak</li><li>Big Tech Power Grid Commitment.</li></ul><hr/><p>**AI Daily Pulse: The Reality of Reasoning and the Agentic Wall**
+
+**ALEX:** (Microphone check sound) We’re live. Marcus, before we get into the headlines, I spent all night trying to optimize a RAG pipeline for a client using some of these new "reasoning" models, and I’m ready to throw my server rack out the window.
+
+**MARCUS:** (Laughs) You’re a purist, Alex. You want sub-millisecond latency in a world that’s moving toward "slow thinking." But look at the landscape this morning—OpenAI’s o1 is ...</p>]]></description>
+      <pubDate>Tue, 16 Jun 2026 16:52:44 GMT</pubDate>
+      <guid isPermaLink="false">1781628503693</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1781628503693.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**The Delta Report: Technical Intelligence Synthesis Reveals the First Sentient AI**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA "Lovelace-Next" H300 Benchmarks</li><li>OpenAI GPT-5.5 API-Turbo Release</li><li>Meta Llama-4-Lite (40B) Weights</li><li>TSMC 1.6nm High-NA EUV Integration</li><li>Cerebras CS-4 Cluster Expansion</li><li>Anthropic Claude 4.2 ‘System Prompt’ Leak</li><li>Mistral-NeMo-v3 Sparse-MoE Weights.</li></ul><hr/><p>**AI DAILY PULSE: JUNE 15, 2026**
