@@ -14,8 +14,22 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Thu, 18 Jun 2026 15:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:16:04 GMT</lastBuildDate>
     
+    <item>
+      <title>**Nvidia Becomes The World’s Most Valuable Company Amid Global AI Market Surge**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**[SCENE START]**
+
+**ALEX:** (Flipping through a digital tablet) Marcus, if I see one more press release about "limitless context windows," I’m going to personally pull the plug on the cooling loops in the Virginia data centers.
+
+**MARCUS:** (Laughs) You’re looking at the Liquid Labs announcement from this morning, aren't you? It’s not just a press release, Alex. They’re claiming a 10x reduction in memory overhead for time-series forecasting using those non-linear ODE solvers. From a strategic s...</p>]]></description>
+      <pubDate>Fri, 19 Jun 2026 15:16:04 GMT</pubDate>
+      <guid isPermaLink="false">1781881893137</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1781881893137.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**Strategic Intelligence Command: The Technical Signal Milestone That Redefines Global AI**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>OpenAI ‘Project Starlight’ 100k GPU Cluster Activation</li><li>NVIDIA H300 ‘Super-Tensor’ Production Shift</li><li>Mistral-Next-v2 Weight Leak</li><li>Anthropic Claude 4.5 API Preview</li><li>Meta Llama-4-Alpha Latency Benchmarks</li><li>Google TPUs-v7 Early Access</li><li>Cerebras CS-4 Throughput Record.</li></ul><hr/><p>**AI Daily Pulse: Technical Intelligence Briefing**
