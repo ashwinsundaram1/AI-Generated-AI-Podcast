@@ -14,8 +14,22 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Tue, 23 Jun 2026 14:49:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 14:30:30 GMT</lastBuildDate>
     
+    <item>
+      <title>**The AI Delta Report: Strategic Intelligence Command Reveals Today’s Massive Technical Breakthrough**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "HyperCluster" deployment</li><li>Llama 4-Lightweight Weights Release</li><li>OpenAI "Sora-Turbo" API Live</li><li>Mistral-NeMo-v2 Architecture</li><li>Groq LPU v3 Throughput Benchmarks</li><li>Apple Intelligence "On-Device-Max" Update</li><li>TSMC 1.6nm AI-Logic Milestone.</li></ul><hr/><p>**AI Daily Pulse: June 24, 2026**
+
+**ALEX:** It’s Wednesday, June 24th, 2026. I’m Alex, Technical Architect, and I am currently staring at a thermal dissipation chart that makes me want to retire.
+
+**MARCUS:** And I’m Marcus. While Alex is worrying about the heat, I’m looking at the fact that the competitive moat for cloud providers just turned into a puddle. We have a massive day today. The "Project Chimera" benchmarks are out, and the hardware-level privacy mandates in the EU are finally hitti...</p>]]></description>
+      <pubDate>Wed, 24 Jun 2026 14:30:30 GMT</pubDate>
+      <guid isPermaLink="false">1782311154948</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1782311154948.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Google Crowns Benchmark King as Vera Rubin Scales Trillion Parameter Open Weights</title>
       <description><![CDATA[<p>**AI Daily Pulse: June 23, 2026**
