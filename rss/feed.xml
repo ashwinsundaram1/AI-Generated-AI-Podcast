@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Wed, 24 Jun 2026 14:30:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 14:34:27 GMT</lastBuildDate>
     
+    <item>
+      <title>**The Massive Compute Delta: How This Technical Breakthrough Reshaped Artificial Intelligence Today**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "Hyper-Cluster" Deployment</li><li>Llama 4-Nano Weights Release</li><li>OpenAI "Sora-Turbo" API Live</li><li>Cerebras CS-4 Throughput Benchmarks</li><li>Mistral-7B-v5 MoE Integration</li><li>TSMC 1.6nm High-NA EUV Shift</li><li>Microsoft "Aurora" Sub-100ms Inference Latency.</li></ul><hr/><p>**AI Daily Pulse: June 25, 2026**
+**Hosts:** Alex (Technical Architect), Marcus (Strategic Visionary)
+**Duration:** Approx. 15 Minutes
+
+[SCENE START]
+
+**MARCUS:** It is June 25th, 2026, and if you thought the compute wars were cooling off, today’s briefing from the Strategic Intelligence desk just threw a bucket of liquid nitrogen on that theory. Alex, I’m looking at the delta from the last 24 hours, and the headline is clear: the "Hyperion-V" clusters are officially live. We’re talking about th...</p>]]></description>
+      <pubDate>Thu, 25 Jun 2026 14:34:27 GMT</pubDate>
+      <guid isPermaLink="false">1782397747335</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1782397747335.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**The AI Delta Report: Strategic Intelligence Command Reveals Today’s Massive Technical Breakthrough**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "HyperCluster" deployment</li><li>Llama 4-Lightweight Weights Release</li><li>OpenAI "Sora-Turbo" API Live</li><li>Mistral-NeMo-v2 Architecture</li><li>Groq LPU v3 Throughput Benchmarks</li><li>Apple Intelligence "On-Device-Max" Update</li><li>TSMC 1.6nm AI-Logic Milestone.</li></ul><hr/><p>**AI Daily Pulse: June 24, 2026**
