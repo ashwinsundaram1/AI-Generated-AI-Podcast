@@ -14,8 +14,20 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Thu, 25 Jun 2026 14:34:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 14:26:54 GMT</lastBuildDate>
     
+    <item>
+      <title>**How Today’s Revolutionary Architecture Breakthrough Is Shattering Global AI Scaling Limits**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse: June 26, 2026**
+
+**MARCUS:** Good morning, everyone. It’s Friday, June 26, 2026. I’m Marcus, and we are looking at a landscape that feels fundamentally different than it did even 48 hours ago. We’re seeing the fallout from the "Tokyo Accord" on sovereign compute, and specifically, the announcement of the *Aether-1* cluster. Alex, this isn't just another data center. We’re talking about the first 200-exaflop dedicated inference farm specifically optimized for the new Recursive-M...</p>]]></description>
+      <pubDate>Fri, 26 Jun 2026 14:26:53 GMT</pubDate>
+      <guid isPermaLink="false">1782483666561</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1782483666561.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**The Massive Compute Delta: How This Technical Breakthrough Reshaped Artificial Intelligence Today**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "Hyper-Cluster" Deployment</li><li>Llama 4-Nano Weights Release</li><li>OpenAI "Sora-Turbo" API Live</li><li>Cerebras CS-4 Throughput Benchmarks</li><li>Mistral-7B-v5 MoE Integration</li><li>TSMC 1.6nm High-NA EUV Shift</li><li>Microsoft "Aurora" Sub-100ms Inference Latency.</li></ul><hr/><p>**AI Daily Pulse: June 25, 2026**
