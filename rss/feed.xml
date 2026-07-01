@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Tue, 30 Jun 2026 14:23:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 14:37:04 GMT</lastBuildDate>
     
+    <item>
+      <title>Sovereign Infrastructure and Weight Releases: Massive New Breakthroughs in Global AI Today</title>
+      <description><![CDATA[<p>**AI Daily Pulse: July 1, 2026**
+**Duration:** Approx. 15 Minutes
+**Hosts:** Alex (Technical Architect) & Marcus (Strategic Visionary)
+
+**ALEX:** It’s July 1st, 2026. I’m Alex, and I’m currently looking at a pull request that was written entirely by a model while I was sleeping, and frankly, I’m terrified to hit "merge."
+
+**MARCUS:** And I’m Marcus. While Alex is worrying about her repo, I’m looking at the fact that the "moat" around the big three hyperscalers just sprouted a massive leak. The n...</p>]]></description>
+      <pubDate>Wed, 01 Jul 2026 14:37:04 GMT</pubDate>
+      <guid isPermaLink="false">1782916295961</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1782916295961.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**How the Neural Autonomy Breakthrough Today Reshapes the Global Economy Forever**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "HyperCluster" Deployment</li><li>Llama 4.5-Ultra Weights Leak</li><li>OpenAI GPT-5-Turbo API v2 Release</li><li>Mistral-NeMo-2 (15B) Open-Weights</li><li>CUDA 13.1 JIT Compilation Breakthrough</li><li>Cerebras CS-4 Throughput Benchmarks</li><li>TSMC 1.6nm AI-SRAM Yield Shift.</li></ul><hr/><p>**AI Daily Pulse: June 30, 2026**
