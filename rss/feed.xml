@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Wed, 08 Jul 2026 14:04:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 14:59:03 GMT</lastBuildDate>
     
+    <item>
+      <title>**NVIDIA Smashes Earnings Estimates While the Global AI Infrastructure Race Intensifies**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H200 Cluster Scale-out at CoreWeave</li><li>Mistral-NeMo-12B Weight Release</li><li>OpenAI 'Strawberry' Reasoning Benchmarks</li><li>Groq LPU v3 Throughput Milestone</li><li>Meta Llama-3-400B+ Final Checkpoint Leak</li><li>TSMC Q2 Revenue Beat (AI Demand)</li><li>Anthropic Claude 3.5 Sonnet Context Window Expansion.</li></ul><hr/><p>**AI Daily Pulse: The Reality of the Frontier**
+**Duration:** Approx. 15 Minutes
+**Characters:** Alex (Technical Architect), Marcus (Strategic Visionary)
+
+[INTRO MUSIC]
+
+**Marcus:** Welcome back to the AI Daily Pulse. I’m Marcus, and sitting across from me is Alex. Today, the landscape of "frontier" AI just got a lot more crowded, and frankly, a lot more complicated for the big labs. Meta has officially released Llama 3.1, including the 405B parameter monster. Alex, we’ve been waiting for a trul...</p>]]></description>
+      <pubDate>Thu, 09 Jul 2026 14:59:03 GMT</pubDate>
+      <guid isPermaLink="false">1783608878524</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1783608878524.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Strategic Intelligence Command Unveils Today’s Massive Breakthrough In Global Autonomous AI</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 Cluster Expansion</li><li>Llama 4.5-Beta Weights Leak</li><li>OpenAI ‘Arrakis’ API v3 Launch</li><li>Groq 4.0 LPUs Deployment</li><li>Mistral-NeMo-v2 Release</li><li>Google TPU v7 Pod Performance Data</li><li>TSMC 2nm Production Shift.</li></ul><hr/><p>**AI Daily Pulse: July 8, 2026**
