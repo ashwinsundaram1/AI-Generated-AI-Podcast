@@ -14,8 +14,20 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Fri, 10 Jul 2026 14:26:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 14:36:44 GMT</lastBuildDate>
     
+    <item>
+      <title>The 24-Hour AI Delta: How Today’s Breakthrough Redefined Global Strategic Intelligence</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA Blackwell B300 GTC Update</li><li>Llama-4-Lite Weights Release</li><li>Cerebras CS-5 Throughput Milestone</li><li>OpenAI "Arrakis" API v3.2 Deployment</li><li>Mistral-NeMo-V2 Parameter Shift</li><li>TSMC 2nm Yield Report</li><li>Supermicro Liquid-Cooling Cluster Expansion.</li></ul><hr/><p>**AI Daily Pulse: July 13, 2026**
+
+**MARCUS:** Welcome back to the Pulse. It’s July 13, 2026, and the landscape just shifted again. If you thought the "compute wars" were reaching a plateau, today’s news from Menlo Park and Santa Clara suggests we’re actually entering a second, much more aggressive phase of vertical integration. Alex, you’ve been looking at the Meta-Nvidia “Silicon-Symmetry” announcement all morning. From a strategic standpoint, this looks like Zuckerberg is finally closing the ...</p>]]></description>
+      <pubDate>Mon, 13 Jul 2026 14:36:44 GMT</pubDate>
+      <guid isPermaLink="false">1783953066172</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1783953066172.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**The Superconductor Revolution: How Nvidia Just Killed The Silicon AI Era**</title>
       <description><![CDATA[<p>**AI Daily Pulse: July 10, 2026**
