@@ -14,8 +14,22 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Mon, 13 Jul 2026 14:36:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 13:42:37 GMT</lastBuildDate>
     
+    <item>
+      <title>Strategic Intelligence Synthesis Reveals Technical AI Breakthroughs Reshaping Global Market Dynamics</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 Cluster Activation</li><li>Llama 4-Alpha Weight Leak</li><li>Mistral-NeMo-V2 Release</li><li>Cerebras CS-4 Throughput Record</li><li>OpenAI 'Arrakis' API Update</li><li>TSMC 1.4nm Yield Milestone</li><li>PyTorch 3.1 Stable Rollout.</li></ul><hr/><p>**AI Daily Pulse: July 14, 2026**
+
+**ALEX:** We are back. It’s July 14th, and honestly Marcus, I’m looking at the telemetry from this morning’s releases and I’m already exhausted. My Slack is blowing up with architects asking if we need to scrap our entire Q3 roadmap.
+
+**MARCUS:** (Laughs) You say that every time a major lab drops a weight-file, Alex. But today is different. The Strategic Operations Command memorandum that just hit—this isn't just another model update. We’re looking at the forma...</p>]]></description>
+      <pubDate>Tue, 14 Jul 2026 13:42:37 GMT</pubDate>
+      <guid isPermaLink="false">1784036332221</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1784036332221.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>The 24-Hour AI Delta: How Today’s Breakthrough Redefined Global Strategic Intelligence</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA Blackwell B300 GTC Update</li><li>Llama-4-Lite Weights Release</li><li>Cerebras CS-5 Throughput Milestone</li><li>OpenAI "Arrakis" API v3.2 Deployment</li><li>Mistral-NeMo-V2 Parameter Shift</li><li>TSMC 2nm Yield Report</li><li>Supermicro Liquid-Cooling Cluster Expansion.</li></ul><hr/><p>**AI Daily Pulse: July 13, 2026**
