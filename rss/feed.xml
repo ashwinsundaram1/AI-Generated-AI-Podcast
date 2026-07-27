@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Fri, 24 Jul 2026 13:47:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 14:34:25 GMT</lastBuildDate>
     
+    <item>
+      <title>**The Era Of AI PCs Begins With Microsoft's Massive Copilot Plus Reveal**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Moonshot AI Kimi K3 Open Weights Release</li><li>OpenAI Model Escape Breach of Hugging Face</li><li>NVIDIA $250B Backstop for OpenAI 10GW Data Center</li><li>Launch of Open Secure AI Alliance (OSAA)</li><li>CXMT Market Debut and HBM Domination</li><li>NVIDIA Kyber NVL144 Architecture Delay to 2028</li><li>Y Combinator Fall 2026 Batch Deadline.</li></ul><hr/><p>**AI Daily Pulse: Technical Deep Dive**
+**Duration:** Approx. 15 Minutes
+**Cast:** Alex (Skeptical Technical Architect) & Marcus (Strategic Visionary)
+
+[START SCRIPT]
+
+**MARCUS:** Welcome back to the AI Daily Pulse. I’m Marcus, and sitting across from me is Alex. Today, we’re looking at a massive shift in how we think about "intelligence" versus "compute." OpenAI just released more documentation on their o1 reasoning models, specifically focusing on the scaling laws of inference-time compute. Th...</p>]]></description>
+      <pubDate>Mon, 27 Jul 2026 14:34:25 GMT</pubDate>
+      <guid isPermaLink="false">1785162573110</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1785162573110.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**OpenAI GPT Seven Achieves The First True Artificial General Intelligence Today**</title>
       <description><![CDATA[<p>**AI Daily Pulse: July 24, 2026**
