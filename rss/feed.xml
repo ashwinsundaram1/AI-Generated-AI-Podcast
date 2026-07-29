@@ -14,8 +14,22 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Tue, 28 Jul 2026 14:07:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 14:10:38 GMT</lastBuildDate>
     
+    <item>
+      <title>**The End of Latency: How Massive Infrastructure Shifts Are Accelerating Global AI**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse: July 29, 2026**
+**Episode Title: The Latency Floor and the Power Ceiling**
+**Length: Approx. 15 Minutes**
+
+**MARCUS:** Welcome back to the Pulse. It’s July 29th, 2026, and if you haven’t looked at the benchmarks that dropped overnight from the Open-Inference Consortium, you might want to sit down. We are looking at a fundamental shift in the competitive landscape. The new "Aether-7" weights are hitting sub-10 millisecond time-to-first-token on consumer-grade hardware. Alex, fro...</p>]]></description>
+      <pubDate>Wed, 29 Jul 2026 14:10:38 GMT</pubDate>
+      <guid isPermaLink="false">1785333940025</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1785333940025.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**Autonomous Neural SIGINT Breakthrough Shattering Global AI Markets and Security Today**</title>
       <description><![CDATA[<p>**AI Daily Pulse: Technical Intelligence Briefing**
