@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Mon, 03 Aug 2026 14:39:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:11:04 GMT</lastBuildDate>
     
+    <item>
+      <title>**The Delta Briefing: How Today’s Recursive Neural Scaling Redefines General Artificial Intelligence**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA Blackwell B200-Ultra Shipments Accelerate</li><li>OpenAI ‘Orion’ API Early Access Alpha</li><li>Cerebras Andromeda 3 Clusters Online</li><li>Mistral-Large-v3-Base Weight Release</li><li>Meta Llama-4 Training Cluster Expansion (1.2M H100 Equivalents)</li><li>Liquid AI "Flow" Model Benchmark Leak</li><li>Groq LPU v2 Throughput Records.</li></ul><hr/><p>**AI Daily Pulse: Technical Intelligence Briefing**
+**Date:** August 4, 2026
+**Hosts:** Alex (Technical Architect) & Marcus (Strategic Visionary)
+
+[AUDIO START]
+
+**MARCUS:** It is August 4th, 2026. I’m Marcus, and looking at the board today, the delta in the last twenty-four hours isn’t just about incremental gains—we are seeing a fundamental shift in how the "Big Three" are positioning their hardware-software verticality. Alex, I know you’ve been digging into the telemetry coming out of the NVI...</p>]]></description>
+      <pubDate>Tue, 04 Aug 2026 14:11:04 GMT</pubDate>
+      <guid isPermaLink="false">1785852354277</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1785852354277.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**The Autonomous Intelligence Revolution: How Today’s Massive Breakthrough Changes the World Forever**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**Title:** AI Daily Pulse
