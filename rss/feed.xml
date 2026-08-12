@@ -14,8 +14,25 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Tue, 11 Aug 2026 13:07:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:11:07 GMT</lastBuildDate>
     
+    <item>
+      <title>**The First Photonic AI Chips Achieve Infinite Scaling And Transform Global Markets**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse**
+**Date:** Wednesday, August 12, 2026
+**Duration:** 15 Minutes (approx. 2,400 words)
+**Hosts:** Marcus (Strategic Visionary) & Alex (Technical Architect)
+
+[START SCRIPT]
+
+**MARCUS:** You know, Alex, I was looking at the throughput numbers coming out of the Liquid-V4 release this morning, and it feels like we’ve finally hit that "efficiency inflection point" we’ve been talking about for eighteen months. Liquid AI is claiming they’ve managed to scale their continuous-time neural ...</p>]]></description>
+      <pubDate>Wed, 12 Aug 2026 13:11:07 GMT</pubDate>
+      <guid isPermaLink="false">1786539822233</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1786539822233.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**Strategic Intelligence Briefing: Decoding Today’s Massive Technical AI and ML Shift**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 Production Ramp</li><li>Llama 4-S Alpha Weights Leak</li><li>OpenAI ‘Arrakis’ API v3 Release</li><li>TSMC 1.6nm Yield Milestone</li><li>Mistral-Neo Sparse Mixture-of-Experts Release</li><li>Cerebras CS-4 Cluster Activation</li><li>ETH-Zurich Formal Verification Breakthrough.</li></ul><hr/><p>**AI Daily Pulse: August 11, 2026**
