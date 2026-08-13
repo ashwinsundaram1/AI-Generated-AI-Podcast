@@ -14,8 +14,26 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Wed, 12 Aug 2026 13:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 13:10:20 GMT</lastBuildDate>
     
+    <item>
+      <title>**Microsoft’s Silicon Gambit: How Copilot Plus PCs Are Changing Computing Forever**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H200 Cluster Expansion in UAE</li><li>Mistral-Large-24.08 API Update</li><li>Groq Llama-3-405B Throughput Milestone</li><li>Cerebras Inference Cloud Launch</li><li>PyTorch 2.5 Dev-Release for Blackwell</li><li>Black Forest Labs Flux.1-Pro API</li><li>Liquid AI "Non-Transformer" Model Weights.</li></ul><hr/><p>**AI Daily Pulse: The Inference War and the Context Gold Rush**
+**Date:** October 24, 2023
+**Duration:** Approx. 15 Minutes
+
+**ALEX:** Welcome back to AI Daily Pulse. I’m Alex, and I’m currently looking at a stack of cloud bills that make me want to go back to local-only compute.
+
+**MARCUS:** And I’m Marcus, and I’m looking at those same bills as the price of admission for the greatest architectural shift in human history. Alex, you’re looking at the cost; I’m looking at the velocity.
+
+**ALEX:**...</p>]]></description>
+      <pubDate>Thu, 13 Aug 2026 13:10:20 GMT</pubDate>
+      <guid isPermaLink="false">1786626311231</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1786626311231.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**The First Photonic AI Chips Achieve Infinite Scaling And Transform Global Markets**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse**
