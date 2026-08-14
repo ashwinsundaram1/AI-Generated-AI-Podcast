@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Thu, 13 Aug 2026 13:10:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 13:06:01 GMT</lastBuildDate>
     
+    <item>
+      <title>**NVIDIA Shatters Market Expectations As Blackwell Chips Fuel The Next AI Wave**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>OpenAI Ultrafast Mode Launch</li><li>Z.ai GLM-5.3 Release</li><li>DeepSeek V4 Pro API GA</li><li>NVIDIA $500B Infrastructure Financing</li><li>Qwen 3.8-Max API Rollout</li><li>xAI Grok 4.6 Multi-Step Agent Update</li><li>Google Gemini 3.7 Flash General Availability.</li></ul><hr/><p>**AI Daily Pulse: Technical Deep Dive**
+**Date:** May 22, 2024
+**Hosts:** Alex (Technical Architect) & Marcus (Strategic Visionary)
+
+[START SCRIPT]
+
+**MARCUS:** You know, Alex, I was looking at the release notes for the new Llama 3.1 405B weights this morning, and it hit me—we are officially out of the "experimental" phase of open-weights models. When you have a model of this scale that can actually rival GPT-4o in reasoning, the entire competitive moat for closed-source labs just started taking...</p>]]></description>
+      <pubDate>Fri, 14 Aug 2026 13:06:01 GMT</pubDate>
+      <guid isPermaLink="false">1786712467656</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1786712467656.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**Microsoft’s Silicon Gambit: How Copilot Plus PCs Are Changing Computing Forever**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H200 Cluster Expansion in UAE</li><li>Mistral-Large-24.08 API Update</li><li>Groq Llama-3-405B Throughput Milestone</li><li>Cerebras Inference Cloud Launch</li><li>PyTorch 2.5 Dev-Release for Blackwell</li><li>Black Forest Labs Flux.1-Pro API</li><li>Liquid AI "Non-Transformer" Model Weights.</li></ul><hr/><p>**AI Daily Pulse: The Inference War and the Context Gold Rush**
