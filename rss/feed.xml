@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Fri, 14 Aug 2026 13:06:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 12:43:05 GMT</lastBuildDate>
     
+    <item>
+      <title>**Priority Alpha: Today’s Technical Intelligence Briefing That Will Change AI History Forever**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "Hyperion" Cluster Online</li><li>Mistral-Neo-7B Weights Released</li><li>OpenAI GPT-5.2 API Low-Latency Tier</li><li>AMD ROCm 7.1 Performance Leap</li><li>Cerebras CS-4 Throughput Records</li><li>Llama-4-Lite Quantization Breakthrough</li><li>TSMC 1.4nm Pilot Production Shift.</li></ul><hr/><p>**AI Daily Pulse: August 17, 2026**
+**Duration:** Approx. 15 Minutes
+**Characters:** Marcus (Strategic Visionary), Alex (Technical Architect)
+
+[START SCRIPT]
+
+**MARCUS:** You know, Alex, I was looking at the overnight telemetry from the new OpenWeights 5.0 release, and it feels like the goalposts just moved again. We aren’t just talking about a better chatbot; we’re looking at the first model that actually demonstrates "recursive self-correction" in real-time during a live inference stream. From...</p>]]></description>
+      <pubDate>Mon, 17 Aug 2026 12:43:05 GMT</pubDate>
+      <guid isPermaLink="false">1786970341182</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1786970341182.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**NVIDIA Shatters Market Expectations As Blackwell Chips Fuel The Next AI Wave**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>OpenAI Ultrafast Mode Launch</li><li>Z.ai GLM-5.3 Release</li><li>DeepSeek V4 Pro API GA</li><li>NVIDIA $500B Infrastructure Financing</li><li>Qwen 3.8-Max API Rollout</li><li>xAI Grok 4.6 Multi-Step Agent Update</li><li>Google Gemini 3.7 Flash General Availability.</li></ul><hr/><p>**AI Daily Pulse: Technical Deep Dive**
