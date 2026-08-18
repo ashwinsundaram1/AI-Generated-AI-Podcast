@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Mon, 17 Aug 2026 12:43:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 12:46:28 GMT</lastBuildDate>
     
+    <item>
+      <title>**How The Arrival Of AGI Just Reset The Entire Global Financial System**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "Hyperion" Mass Shipment Commences</li><li>OpenAI O3-Mini-Turbo API Release</li><li>Groq LPU-3 Architecture Unveiled</li><li>Meta Llama 4-90B Early Weights Leak</li><li>Mistral "Codestral-v3" Integration</li><li>Microsoft Azure 1.2M H200 Cluster Online</li><li>Liquid AI 110B Flow Model Release.</li></ul><hr/><p>**AI Daily Pulse: August 18, 2026**
+
+**ALEX:** Good morning. It’s August 18, 2026. I’m Alex, and I’m already looking at the deployment logs from the overnight releases, and frankly, some of these numbers don't add up.
+
+**MARCUS:** And I’m Marcus. I’m looking at the same data and seeing the end of the centralized cloud era as we know it. We’ve got a massive morning ahead—everything from the NLI 4.0 protocol to NVIDIA’s H300 specs. 
+
+**ALEX:** You always see the "end of an era," Marcus. I just see...</p>]]></description>
+      <pubDate>Tue, 18 Aug 2026 12:46:28 GMT</pubDate>
+      <guid isPermaLink="false">1787056827019</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1787056827019.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**Priority Alpha: Today’s Technical Intelligence Briefing That Will Change AI History Forever**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "Hyperion" Cluster Online</li><li>Mistral-Neo-7B Weights Released</li><li>OpenAI GPT-5.2 API Low-Latency Tier</li><li>AMD ROCm 7.1 Performance Leap</li><li>Cerebras CS-4 Throughput Records</li><li>Llama-4-Lite Quantization Breakthrough</li><li>TSMC 1.4nm Pilot Production Shift.</li></ul><hr/><p>**AI Daily Pulse: August 17, 2026**
