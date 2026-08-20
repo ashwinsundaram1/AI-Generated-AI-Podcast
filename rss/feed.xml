@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Wed, 19 Aug 2026 12:47:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:48:03 GMT</lastBuildDate>
     
+    <item>
+      <title>**Nvidia Smashes Records As Global AI Demand Triggers A Massive Stock Split**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA Blackwell B200 Mass Shipments Commencing</li><li>Groq Llama-3-70B Tool Use Latency Breakthrough</li><li>Midjourney Hardware Division Silicon Specs Leak</li><li>Mistral Large 2 API Optimization Update</li><li>OpenAI "Strawberry" Inference Compute Scaling Data</li><li>Cerebras CS-3 Cluster Expansion in UAE</li><li>Meta's Llama-4 Training Cluster Power-On.</li></ul><hr/><p>**AI Daily Pulse: Episode 142**
+**Hosts:** Alex (Technical Architect) & Marcus (Strategic Visionary)
+**Duration:** Approx. 15 Minutes
+
+[INTRO MUSIC FADES]
+
+**Marcus:** Welcome back to the AI Daily Pulse. I’m Marcus, and today we are looking at a landscape that feels like it’s shifting beneath our feet every six hours. We’ve moved past the "can it write a poem" phase and straight into the "can it run my entire supply chain" phase. Alex, I’ve been looking at the latest benchmarks for the Llama 3.1...</p>]]></description>
+      <pubDate>Thu, 20 Aug 2026 12:48:03 GMT</pubDate>
+      <guid isPermaLink="false">1787229781331</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1787229781331.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>OpenAI Sol Fourteen Times Throughput Breakthrough And The Massive API Price War</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>OpenAI GPT-5.6 Sol 14x Speedup</li><li>OpenAI 80% API Price Cut</li><li>NVIDIA H200 China Export Approval</li><li>Google Auto Browse Android Rollout</li><li>Etched $700M Inference Rack Funding</li><li>Anthropic Claude Opus 5 Outage</li><li>Unitree 460% IPO Surge.</li></ul><hr/><p>**AI Daily Pulse**
