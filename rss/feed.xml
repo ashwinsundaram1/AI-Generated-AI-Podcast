@@ -14,8 +14,22 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Tue, 25 Aug 2026 12:47:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:52:24 GMT</lastBuildDate>
     
+    <item>
+      <title>Open Weights Rising: Why Infrastructure Shifts Are Killing Legacy AI APIs</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse: August 26, 2026**
+
+**Alex:** Welcome back to the Pulse. It’s Wednesday, August 26th. I’m Alex, and I’m currently looking at a stack of migration tickets that I’m sure we’ll be discussing later in the show.
+
+**Marcus:** And I’m Marcus. I’m looking at the same data, Alex, but I’m seeing the end of the "GPU Moat" as we know it. We’ve got a massive 24-hour delta to cover, ranging from the Llama 5-Ultra weights hitting the public domain to some pretty aggressive API deprecations fro...</p>]]></description>
+      <pubDate>Wed, 26 Aug 2026 12:52:24 GMT</pubDate>
+      <guid isPermaLink="false">1787748396017</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1787748396017.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**The Frontier Breakthrough: A Technical Intelligence Synthesis Redefining Global AI Markets Today**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA Groq 3 LPX Production</li><li>MetaRoCE million-node RDMA protocol</li><li>OpenAI Codex 5-hour limit restoration</li><li>IBM Z-Architecture Dual-Processor AI</li><li>GPT-5.5 Multilingual M-GATE Benchmark results</li><li>CoreWeave $104B revenue backlog expansion</li><li>NVIDIA AI Server 15% Price Hike.</li></ul><hr/><p>**AI Daily Pulse: Technical Intelligence Synthesis**
