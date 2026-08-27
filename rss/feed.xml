@@ -14,8 +14,22 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Wed, 26 Aug 2026 12:52:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:53:13 GMT</lastBuildDate>
     
+    <item>
+      <title>The Delta Report: How Quantum Neural Systems Achieved Artificial General Intelligence Today</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 Cluster Benchmarks</li><li>Llama 4-Nano Weights Leak</li><li>OpenAI 'Project Arrakis' API v3</li><li>Cerebras CS-5 Wafer Launch</li><li>Mistral-Next Context Window Expansion</li><li>Google TPU v7 Early Access</li><li>Groq LPU v2 Throughput Records</li></ul><hr/><p>**AI Daily Pulse: August 27, 2026**
+
+**MARCUS:** It is August 27, 2026. I’m Marcus, and looking at the overnight telemetry, we are officially in the era of the "Reasoning Surplus." The release of the OpenMind 2.0 weights last night isn’t just another incremental update; it’s a fundamental shift in how we think about the cost of intelligence. Alex, you’ve been digging into the technical report since the drop at 2:00 AM. Is the hype justified, or are we just looking at better compression?
+
+**ALEX:...</p>]]></description>
+      <pubDate>Thu, 27 Aug 2026 21:53:13 GMT</pubDate>
+      <guid isPermaLink="false">1787867242381</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1787867242381.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Open Weights Rising: Why Infrastructure Shifts Are Killing Legacy AI APIs</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse: August 26, 2026**
