@@ -14,8 +14,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Fri, 28 Aug 2026 21:47:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:51:58 GMT</lastBuildDate>
     
+    <item>
+      <title>**Why Today’s Technical Pulse Breakthrough Just Changed The Global AI Market Forever**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 Cluster Online</li><li>Llama 5-70B Weights Leak</li><li>OpenAI ‘Stargate’ Phase 2</li><li>Cerebras CS-4 Throughput Record</li><li>Anthropic Claude 4.2 API Release</li><li>Mistral-Neo FP8 Quantization</li><li>TSMC 1.4nm AI Pilot.</li></ul><hr/><p>**AI DAILY PULSE**
+**DATE:** August 31, 2026
+**HOSTS:** Alex (Technical Architect) & Marcus (Strategic Visionary)
+**DURATION:** approx. 15 Minutes
+
+***
+
+**ALEX:** It’s August 31st, 2026. I’m Alex, and I’m currently looking at a stack of pull requests for our edge-deployment modules that I might have to trash by the end of this episode.
+
+**MARCUS:** And I’m Marcus. While Alex is mourning her codebase, I’m looking at the market shifts from the last 24 hours. We’ve hit a point where the "compute mo...</p>]]></description>
+      <pubDate>Mon, 31 Aug 2026 18:51:58 GMT</pubDate>
+      <guid isPermaLink="false">1788201983251</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1788201983251.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**OpenAI Achieves Human Level AGI Reshaping The Global Technical Intelligence Economy**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse: August 28, 2026**
