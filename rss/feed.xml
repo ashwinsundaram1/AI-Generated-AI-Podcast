@@ -14,8 +14,22 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Tue, 08 Sep 2026 16:05:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:01:08 GMT</lastBuildDate>
     
+    <item>
+      <title>Silicon Shatters the Ceiling: Inside the Massive 2026 Hardware Scaling Breakthrough</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA "Aegis-100" Tape-Out Leaks</li><li>Llama 5-Alpha Weights Discovery</li><li>Groq LPUs Hit 25k Tokens/Sec</li><li>Mistral-NeMo-V2 Release</li><li>OpenAI "Strawberry" Real-Time Search API</li><li>AWS P6dn Instance GA</li><li>Cerebras CS-4 Cluster Benchmark.</li></ul><hr/><p>**AUDIO START**
+
+**ALEX:** It’s September 9th, 2026. You’re listening to AI Daily Pulse. I’m Alex, and I’m currently looking at a power draw chart for the new North Dakota cluster that makes me want to move to a cabin in the woods with no electricity.
+
+**MARCUS:** (Laughs) And I’m Marcus. While Alex is worried about the grid melting, I’m looking at the fact that we just saw the first sub-millisecond recursive reasoning loop on a production-grade model. The "Hardware Inflection" we’ve been talkin...</p>]]></description>
+      <pubDate>Wed, 09 Sep 2026 16:01:08 GMT</pubDate>
+      <guid isPermaLink="false">1788969374066</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1788969374066.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**The Silicon Singularity: Today’s Technical Breakthrough That Changed AI History Forever**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse**
