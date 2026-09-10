@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Wed, 09 Sep 2026 16:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:03:11 GMT</lastBuildDate>
     
+    <item>
+      <title>**Sovereign AI Dominance: Why National Compute Infrastructure is the New Global Currency**</title>
+      <description><![CDATA[<p>**AI Daily Pulse: September 10, 2026**
+**Duration:** Approx. 15 Minutes
+**Characters:** Alex (Skeptical Technical Architect), Marcus (Strategic Visionary)
+
+[START SCRIPT]
+
+**MARCUS:** Good morning, everyone. It’s September 10th, 2026, and the landscape is shifting under our feet again. I’m Marcus, and we are looking at a morning where the "Scaling Laws" debate has finally been put to bed, but the "Deployment Wars" are just beginning. Meta just dropped the full weights for Llama 5—all 2.8 trillio...</p>]]></description>
+      <pubDate>Thu, 10 Sep 2026 16:03:11 GMT</pubDate>
+      <guid isPermaLink="false">1789055627553</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1789055627553.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Silicon Shatters the Ceiling: Inside the Massive 2026 Hardware Scaling Breakthrough</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA "Aegis-100" Tape-Out Leaks</li><li>Llama 5-Alpha Weights Discovery</li><li>Groq LPUs Hit 25k Tokens/Sec</li><li>Mistral-NeMo-V2 Release</li><li>OpenAI "Strawberry" Real-Time Search API</li><li>AWS P6dn Instance GA</li><li>Cerebras CS-4 Cluster Benchmark.</li></ul><hr/><p>**AUDIO START**
