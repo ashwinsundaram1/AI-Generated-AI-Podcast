@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Wed, 07 Oct 2026 18:33:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:30:17 GMT</lastBuildDate>
     
+    <item>
+      <title>**Today's AI Infrastructure Breakthrough: Scaling Massive Model Deployments Across Global Networks**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 Cluster Scaling</li><li>Mistral-7B-v4 Weights Release</li><li>Groq LPU Gen-3 Benchmarks</li><li>Anthropic Claude 4.1 API Update</li><li>PyTorch 2.6 JIT Compiler Patch</li><li>TSMC 1.4nm Logic Yield Milestone</li><li>OpenAI ‘Strawberry-Full’ Latency Reduction.</li></ul><hr/><p>**AI Daily Pulse: Technical Intelligence Briefing**
+**Date:** October 8, 2026
+**Hosts:** Alex (Technical Architect) & Marcus (Strategic Visionary)
+
+[AUDIO START]
+
+**MARCUS:** Good morning, everyone. It is October 8, 2026, and the landscape of compute is shifting faster than the supply chain can keep up with. I’m Marcus, and we are looking at a morning where the "Cloud-First" mantra might finally be hitting its expiration date. Alex, you’ve been looking at the telemetry from the new "Titan-7-Nano...</p>]]></description>
+      <pubDate>Thu, 08 Oct 2026 18:30:17 GMT</pubDate>
+      <guid isPermaLink="false">1791483971966</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1791483971966.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**OpenAI Joins Forces With Former NSA Director To Secure The AI Frontier**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Mistral Large 4 "Le Chonk" 1T Preview</li><li>OpenAI Decisions API Beta on GPT-6 Luna</li><li>NVIDIA GB300 "Grace Blackwell" Desktop Superchip Demo</li><li>Reflection AI Beam 501B Weight Release</li><li>Dell/HP GB300 Workstations Launch</li><li>HPE ProLiant Gen13 Agentic AI Servers</li><li>OpenAI Intelligent UI Rollout.</li></ul><hr/><p>**AI Daily Pulse: The Architecture of Action**
