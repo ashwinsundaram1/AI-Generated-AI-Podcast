@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Thu, 08 Oct 2026 18:30:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:02:10 GMT</lastBuildDate>
     
+    <item>
+      <title>Blackwell Dominance: Edge Kernels and the Rise of AI Decision Models</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse: October 9, 2026**
+
+**ALEX:** Welcome back to the Pulse. It’s October 9th, 2026. I’m Alex, and I’m currently staring at a rack diagram that makes me want to retire.
+
+**MARCUS:** And I’m Marcus. I’m looking at that same diagram, Alex, and all I see is the end of the "SaaS as we know it" era. We’ve had a massive 24 hours. The dust is finally settling on these new "Decision Models," and NVIDIA’s Blackwell ecosystem isn't just a chip launch anymore—it’s an environment.
+
+**ALEX:** It...</p>]]></description>
+      <pubDate>Fri, 09 Oct 2026 18:02:10 GMT</pubDate>
+      <guid isPermaLink="false">1791568725675</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1791568725675.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**Today's AI Infrastructure Breakthrough: Scaling Massive Model Deployments Across Global Networks**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 Cluster Scaling</li><li>Mistral-7B-v4 Weights Release</li><li>Groq LPU Gen-3 Benchmarks</li><li>Anthropic Claude 4.1 API Update</li><li>PyTorch 2.6 JIT Compiler Patch</li><li>TSMC 1.4nm Logic Yield Milestone</li><li>OpenAI ‘Strawberry-Full’ Latency Reduction.</li></ul><hr/><p>**AI Daily Pulse: Technical Intelligence Briefing**
