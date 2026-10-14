@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Tue, 13 Oct 2026 18:57:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:37:31 GMT</lastBuildDate>
     
+    <item>
+      <title>**NVIDIA Unveils Quantum AI Chips Powering The First Global Autonomous AGI Network**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse: October 14, 2026**
+
+**ALEX:** (Microphone check) Okay, levels are good. Marcus, I’m looking at the telemetry from the Nexus-7 launch this morning and I’m already annoyed.
+
+**MARCUS:** Annoyed? Alex, we are looking at the first true "World Model" that actually understands Newtonian physics in real-time. This isn't just another LLM. This is the end of the "black box" era for robotics. The competitive moat for legacy manufacturers just evaporated overnight.
+
+**ALEX:** That’s the m...</p>]]></description>
+      <pubDate>Wed, 14 Oct 2026 16:37:31 GMT</pubDate>
+      <guid isPermaLink="false">1791995617439</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1791995617439.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**How Today’s Massive AGI Breakthrough Is Changing The Global Economy Forever**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 Cluster Activation</li><li>Llama 4-Lightweight Weights Release</li><li>Groq LPU v3 Throughput Benchmarks</li><li>OpenAI GPT-5-Turbo API Incremental Update</li><li>Mistral-Neo-7B Quantization</li><li>TSMC 1.4nm Yield Reports for AI Accelerators</li><li>Anthropic Claude 4.5 Latency Optimization.</li></ul><hr/><p>**AI Daily Pulse: October 13, 2026**
