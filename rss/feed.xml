@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Wed, 14 Oct 2026 16:37:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 16:23:16 GMT</lastBuildDate>
     
+    <item>
+      <title>**Silicon Reborn: How the Massive Infrastructure Model Delta Breakthrough Changes AI Forever**</title>
+      <description><![CDATA[<p>**AI Daily Pulse: Technical Intelligence Briefing**
+**Date:** October 15, 2026
+**Hosts:** Alex (Technical Architect) & Marcus (Strategic Visionary)
+
+[START SCRIPT]
+
+**MARCUS:** It is October 15th, 2026, and if you thought the compute wars were cooling down, this morning’s drop from the Nebula Consortium just set the data center floor on fire. Alex, I’m looking at the white paper for Nebula-4, and they are claiming a native 5-million token context window with zero-shot reasoning capabilities that...</p>]]></description>
+      <pubDate>Thu, 15 Oct 2026 16:23:16 GMT</pubDate>
+      <guid isPermaLink="false">1792081159968</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1792081159968.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**NVIDIA Unveils Quantum AI Chips Powering The First Global Autonomous AGI Network**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse: October 14, 2026**
