@@ -14,8 +14,26 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Fri, 16 Oct 2026 16:12:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:24:47 GMT</lastBuildDate>
     
+    <item>
+      <title>**SIU Flash Intelligence: Today’s Technical Breakthrough Redefining Global Artificial Intelligence Markets**</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "HyperCluster" Deployment</li><li>DeepSeek-V4 Weight Release</li><li>Mistral-Next API Increment</li><li>TSMC 1.4nm A14 Risk Production Shift</li><li>OpenAI "Orion" Phase 2 Latency Metrics</li><li>PyTorch 3.1 Stable Release</li><li>Llama-4-70B-Early-Access Benchmarks.</li></ul><hr/><p>**AI Daily Pulse: October 19, 2026**
+**Host Alex:** Skeptical Technical Architect
+**Host Marcus:** Strategic Visionary
+
+---
+
+**ALEX:** (Sound of a coffee mug hitting a desk) It’s Monday, October 19th. I’m Alex, and I’ve spent the last four hours looking at the latency benchmarks for the new Orion-3 release. My blood pressure is high, and my expectations are low.
+
+**MARCUS:** And I’m Marcus. I’ve spent the same four hours looking at the market cap shifts following that same release, and Alex, you...</p>]]></description>
+      <pubDate>Mon, 19 Oct 2026 18:24:47 GMT</pubDate>
+      <guid isPermaLink="false">1792434024643</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1792434024643.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**The Convergence Breakthrough: How Unified Infrastructure Is Transforming Artificial Intelligence Today**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>(NVIDIA "Hyperion-X" 1M GPU Cluster Launch</li><li>Llama 4-Alpha Weight Leak Analysis</li><li>Mistral-NeMo-V2 API Deployment</li><li>OpenAI "Strawberry" Inference Scaling Update</li><li>Cerebras CS-4 Throughput Benchmarks</li><li>Google Axion-2 General Availability</li><li>Groq LPU v3 Latency Records)</li></ul><hr/><p>**AI Daily Pulse: Technical Intelligence Briefing**
