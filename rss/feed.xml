@@ -14,8 +14,26 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Mon, 19 Oct 2026 18:24:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:26:58 GMT</lastBuildDate>
     
+    <item>
+      <title>The GPU Scaling Revolution: How Weight Parity Unlocks the Next AI Frontier</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 General Availability</li><li>Llama 4-Lite (8B) Weights Leaked</li><li>OpenAI 'Project Arrakis' API Endpoints</li><li>Cerebras CS-5 Performance Benchmarks</li><li>Google DeepMind 'Gemma-3-Realtime' Release</li><li>AWS UltraCluster 3.0 Expansion</li><li>Mistral-Next-Turbo-v2 Integration.</li></ul><hr/><p>**AI Daily Pulse: October 20, 2026**
+**Duration:** Approx. 15 Minutes
+**Characters:** Alex (Technical Architect), Marcus (Strategic Visionary)
+
+[START SCRIPT]
+
+**ALEX:** It’s October 20th, 2026. I’m Alex, and I’m already looking at the power consumption metrics for this morning’s announcements and feeling a headache coming on.
+
+**MARCUS:** And I’m Marcus. I’m looking at those same announcements and wondering if we’ve finally hit the point where the hardware moat becomes a canyon. We’ve got a lot...</p>]]></description>
+      <pubDate>Tue, 20 Oct 2026 16:26:58 GMT</pubDate>
+      <guid isPermaLink="false">1792513303754</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1792513303754.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>**SIU Flash Intelligence: Today’s Technical Breakthrough Redefining Global Artificial Intelligence Markets**</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "HyperCluster" Deployment</li><li>DeepSeek-V4 Weight Release</li><li>Mistral-Next API Increment</li><li>TSMC 1.4nm A14 Risk Production Shift</li><li>OpenAI "Orion" Phase 2 Latency Metrics</li><li>PyTorch 3.1 Stable Release</li><li>Llama-4-70B-Early-Access Benchmarks.</li></ul><hr/><p>**AI Daily Pulse: October 19, 2026**
