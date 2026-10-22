@@ -14,8 +14,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Wed, 21 Oct 2026 16:44:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:46:12 GMT</lastBuildDate>
     
+    <item>
+      <title>How Agentic Infrastructure And Hardware Observability Solve The Primary AI Industry Bottlenecks</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA Minerva AIOps Launch</li><li>Google Cloud A5X (Vera Rubin) GA</li><li>OpenAI x Google Cloud Partnership</li><li>Qwen 3.6-27B Weights Release</li><li>NVIDIA DGX Spark 1TB Unified Memory Expansion</li><li>NVIDIA Agent Knowledge Foundation Launch</li><li>Meta Prometheus Supercluster Scaling Milestone.</li></ul><hr/><p>**AI Daily Pulse: October 22, 2026**
+**Duration:** 15 Minutes (approx. 2,800 words)
+**Characters:** Alex (Skeptical Architect), Marcus (Strategic Visionary)
+
+[START SCRIPT]
+
+**MARCUS:** Welcome back to the Pulse. It is October 22nd, 2026, and if you thought the infrastructure wars were cooling down, this morning’s drop from the Open Compute Project and the subsequent market reaction tells a very different story. We’re seeing a fundamental pivot in how the industry views the "Agentic Stack." It’s...</p>]]></description>
+      <pubDate>Thu, 22 Oct 2026 16:46:12 GMT</pubDate>
+      <guid isPermaLink="false">1792687251295</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1792687251295.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>How Today’s 2026 Pulse Report Just Confirmed The Birth Of Superintelligence</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA H300 "Hyperion" Early Benchmarks</li><li>OpenAI GPT-5.5 API Iteration v2.4</li><li>Meta Llama-4-700B Weight Leak</li><li>Cerebras CS-5 Cluster Expansion</li><li>Mistral "Onyx" 22B Release</li><li>TSMC 1.4nm Node Power Efficiency Gains</li><li>DeepMind AlphaFold-4 Logic Update.</li></ul><hr/><p>**AI Daily Pulse**
