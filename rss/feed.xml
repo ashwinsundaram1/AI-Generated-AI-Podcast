@@ -14,8 +14,22 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology"/>
     <itunes:image href="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/cover.jpg"/>
-    <lastBuildDate>Thu, 22 Oct 2026 16:46:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:59:09 GMT</lastBuildDate>
     
+    <item>
+      <title>The Agentic Revolution: How Autonomous Reasoning Just Shattered Every Global Market Benchmark</title>
+      <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>Real-time AI Intelligence Update</li></ul><hr/><p>**AI Daily Pulse: October 23, 2026**
+
+**ALEX:** Welcome back to the Pulse. It’s October 23rd, 2026. I’m Alex, and I’m currently looking at a stack of whitepapers from the last 24 hours that suggest we’ve finally solved the "reasoning gap"—at least according to the marketing departments.
+
+**MARCUS:** And I’m Marcus. While Alex is busy checking the footnotes for thermal throttling issues, I’m looking at the fact that we just saw the first trillion-parameter model successfully run on a decentralize...</p>]]></description>
+      <pubDate>Fri, 23 Oct 2026 16:59:09 GMT</pubDate>
+      <guid isPermaLink="false">1792774451614</guid>
+      <enclosure url="https://ashwinsundaram1.github.io/AI-Generated-AI-Podcast/rss/AI-Pulse-1792774451614.mp3" length="0" type="audio/mpeg"/>
+      <itunes:author>AI Daily Pulse</itunes:author>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>How Agentic Infrastructure And Hardware Observability Solve The Primary AI Industry Bottlenecks</title>
       <description><![CDATA[<p><strong>Intelligence Brief:</strong></p><ul><li>NVIDIA Minerva AIOps Launch</li><li>Google Cloud A5X (Vera Rubin) GA</li><li>OpenAI x Google Cloud Partnership</li><li>Qwen 3.6-27B Weights Release</li><li>NVIDIA DGX Spark 1TB Unified Memory Expansion</li><li>NVIDIA Agent Knowledge Foundation Launch</li><li>Meta Prometheus Supercluster Scaling Milestone.</li></ul><hr/><p>**AI Daily Pulse: October 22, 2026**
